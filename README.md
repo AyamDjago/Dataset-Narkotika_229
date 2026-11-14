@@ -1,6 +1,6 @@
 # Dataset Narkotika dan Psikotropika PN Bogor
 
-Repositori untuk Tugas 2 mata kuliah Temu Kembali Informasi. Dataset ini disiapkan untuk latihan pengumpulan dokumen putusan dan penyusunan ringkasan terstruktur.
+Repositori untuk SUBCPMK 2 mata kuliah Temu Kembali Informasi. Dataset ini disiapkan untuk latihan pengumpulan dokumen putusan dan penyusunan ringkasan terstruktur.
 
 **Penyusun** Muhammad Hilman Al Hazmi · NIM: 202310370311229
 **Cakupan** Lima putusan tingkat pertama dari Pengadilan Negeri Bogor, tahun putus 2024–2025.
